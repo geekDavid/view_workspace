@@ -6,6 +6,12 @@
 ## 使用:
 jcenter-gradle:
 compile 'com.kinjaz.flowlayout:flowlayout:1.0.0'
-
+ 
 ## 例图
 ![](https://github.com/geekDavid/view_workspace/blob/master/sourcefile/view1.jpg?raw=true)  
+### 代码 
+
+![](https://github.com/geekDavid/view_workspace/blob/master/sourcefile/view2.jpg?raw=true)  
+![](https://github.com/geekDavid/view_workspace/blob/master/sourcefile/view3.jpg?raw=true)  
+![](https://github.com/geekDavid/view_workspace/blob/master/sourcefile/view4.jpg?raw=true)  
+
