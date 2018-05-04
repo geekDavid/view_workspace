@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         };
         //设置适配器
         flowLayout.setAdapter(flowAdapter);
-        //item点击事件
+        //itemClick点击事件
         flowLayout.setItemClickLinstener(new FlowLayout.OnItemClickLinstener() {
             @Override
             public void onItemClick(int position, View view) {
@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
 //                flowLayout.setEnabled(!flowLayout.isClick());
             }
         });
-        //item长按事件
+        //itemLongClick长按事件
         flowLayout.setItemLongClickLinstener(new FlowLayout.OnItemLongClickLinstener() {
             @Override
             public void onItemLongClick(int position, View view) {
